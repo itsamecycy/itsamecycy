@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **C++**
 
-- 🌱 I’m currently learning **Qt**
+- 🌱 I’m currently learning **Raylib**
 
 - 🤝 I’m looking for help with **Coding**
 
